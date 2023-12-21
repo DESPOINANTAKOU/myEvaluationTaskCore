@@ -5,6 +5,7 @@ import GraphPage from "./components/GraphPage/index";
 import MapPage from "./components/MapPage/index";
 import UserCommentsPage from "./components/UserCommentsPage/index";
 
+
 const App = () => {
   return (
     <div className="App">
